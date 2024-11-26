@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "es2022",
+    "preserveConstEnums": true,
+    "lib": ["es2020"],
+    "moduleResolution": "node",
+    "target": "es2017",    
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,  
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
